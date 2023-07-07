@@ -234,3 +234,5 @@ xcode
 installed
 
 .cache/
+*.pdf
+*.ps
